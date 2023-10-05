@@ -11,8 +11,8 @@ Structure des réunions :
 
 Rôles et responsabilités :
 
-    Modérateur : [Nom] sera responsable de la gestion des réunions.
-    Secrétaire : [Nom] prendra des notes pendant les réunions et les partagera avec le groupe.
+    Modérateur : Davy sera responsable de la gestion des réunions.
+    Secrétaire : Kristina prendra des notes pendant les réunions et les partagera avec le groupe.
     Présentateur : Chaque membre du groupe se portera volontaire pour présenter un sujet lors des réunions.
 
 Contributions des membres :
