@@ -1,9 +1,10 @@
 Objectif du groupe :
 
-Notre groupe a pour objectif principal d'apprendre et de développer des compétences dans le domaine de la programmation informatique.
+    Notre groupe a pour objectif principal d'apprendre et de développer des compétences dans le domaine de la programmation informatique.
+
 Fréquence et durée des réunions :
 
-Le groupe se réunira chaque mardi soir de 19h00 à 21h00, de manière virtuelle via une plateforme en ligne.
+    Le groupe se réunira chaque jour de 19h00 à 21h00, de manière virtuelle via une plateforme en ligne.
 
 Structure des réunions :
 
@@ -13,7 +14,6 @@ Rôles et responsabilités :
 
     Modérateur : Davy sera responsable de la gestion des réunions.
     Secrétaire : Kristina prendra des notes pendant les réunions et les partagera avec le groupe.
-    Présentateur : Chaque membre du groupe se portera volontaire pour présenter un sujet lors des réunions.
 
 Contributions des membres :
 
