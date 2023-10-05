@@ -35,6 +35,10 @@ Partage de ressources :
 
     Les membres sont encouragés à partager des liens vers des livres, des vidéos, des sites Web, etc., qui ont été utiles dans leur apprentissage.
 
+Partage des compétences :
+
+    Les membres sont encouragés à partager non seulement ce qu'ils apprennent, mais aussi leurs compétences et connaissances antérieures pour aider les autres.
+
 Formation continue :
 
     Les membres s'engagent à poursuivre leur apprentissage en dehors des réunions du groupe, en suivant des cours, en lisant des livres ou en travaillant sur des projets personnels.
@@ -46,3 +50,7 @@ Motivation et encouragement :
 Confidentialité (si nécessaire) :
 
     Tout ce qui est partagé dans le groupe reste confidentiel, à moins que l'auteur ne donne son autorisation expresse pour le partager en dehors du groupe.
+
+Évaluation de l'efficacité :
+
+    De temps en temps, le groupe peut évaluer son efficacité en tant que collectif en sollicitant des commentaires des membres et en apportant des ajustements si nécessaire.
