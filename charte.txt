@@ -10,6 +10,10 @@ Structure des réunions :
 
     Chaque réunion commencera par un exposé de l'un des membres sur un sujet spécifique, suivi d'une discussion ouverte et de questions.
 
+Réunions individuelles :
+
+    Les membres peuvent demander des réunions individuelles avec d'autres membres du groupe pour approfondir des sujets spécifiques ou pour obtenir de l'aide supplémentaire.
+
 Rôles et responsabilités :
 
     Modérateur : Davy sera responsable de la gestion des réunions.
@@ -17,7 +21,7 @@ Rôles et responsabilités :
 
 Contributions des membres :
 
-    Chaque membre s'engage à partager au moins un article, tutoriel ou ressource pertinente avant chaque réunion.
+    Chaque membre s'engage à partager au moins un article, tutoriel ou ressource pertinente.
 
 Engagement et présence :
 
@@ -31,9 +35,9 @@ Partage de ressources :
 
     Les membres sont encouragés à partager des liens vers des livres, des vidéos, des sites Web, etc., qui ont été utiles dans leur apprentissage.
 
-Évaluation et suivi :
+Formation continue :
 
-    Chaque membre sera évalué sur la base de sa participation active aux discussions, de sa contribution aux présentations, et de sa progression dans l'apprentissage des compétences.
+    Les membres s'engagent à poursuivre leur apprentissage en dehors des réunions du groupe, en suivant des cours, en lisant des livres ou en travaillant sur des projets personnels.
 
 Motivation et encouragement :
 
@@ -42,7 +46,3 @@ Motivation et encouragement :
 Confidentialité (si nécessaire) :
 
     Tout ce qui est partagé dans le groupe reste confidentiel, à moins que l'auteur ne donne son autorisation expresse pour le partager en dehors du groupe.
-
-Fin du groupe :
-
-    Le groupe continuera à fonctionner jusqu'à ce que nous estimions avoir atteint nos objectifs ou jusqu'à ce que nous décidions collectivement de mettre fin à nos activités.
